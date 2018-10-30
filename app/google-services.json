@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "507558516149",
+    "firebase_url": "https://yoconciertos-dbad0.firebaseio.com",
+    "project_id": "yoconciertos-dbad0",
+    "storage_bucket": "yoconciertos-dbad0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507558516149:android:d8a9b7d4069c5b82",
+        "android_client_info": {
+          "package_name": "com.yoconciertos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507558516149-98h8rpkgcvr0e8i6quojenl5fvahigg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOmlGENEO6ZxrefCC6xQUmBWppBrA1pHs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
